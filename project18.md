@@ -295,4 +295,4 @@ The **count** variable checks if the variable **create_read_replica** evaluates 
   }
   ```
 
-Repo containing Terraform files: 
+Repo containing Terraform files: https://github.com/ekwutosi/pbl
